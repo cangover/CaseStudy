@@ -1,2 +1,2 @@
 # CaseStudy
-Journey ticketing via .Net Core MVC
+Journey ticketing via .Net Core MVC. Divided in a library and MVC Application
